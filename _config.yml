@@ -26,7 +26,8 @@ excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown
-theme: the-interesting-times
+theme: jekyll-theme-minimal
+remote_theme: the-interesting-times
 plugins:
   - jekyll-feed
 
